@@ -1,0 +1,7 @@
+mlflow>=3.0,<4
+torch>=2.2
+torchvision>=0.17
+optuna>=3.5
+dvc>=3.0
+numpy
+pandas

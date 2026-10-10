@@ -1,0 +1,16 @@
+{
+  "cfg": {
+    "n_filters": 64,
+    "hidden": 64,
+    "dropout": 0.16076099008484163,
+    "lr": 0.002167540948173154,
+    "batch_size": 128,
+    "weight_decay": 1.5995663439335596e-06,
+    "augment": true
+  },
+  "epochs": 15,
+  "val_acc_mean": 0.8831666666666668,
+  "val_acc_std": 0.01026320287889373,
+  "test_acc_mean": 0.8893333333333334,
+  "test_acc_std": 0.007505553499465142
+}

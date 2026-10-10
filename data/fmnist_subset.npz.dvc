@@ -1,0 +1,5 @@
+outs:
+- md5: 8e47558d96213e622b898f69840c2dcf
+  size: 6174836
+  hash: md5
+  path: fmnist_subset.npz

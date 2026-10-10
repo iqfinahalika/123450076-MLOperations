@@ -1,0 +1,16 @@
+{
+  "cfg": {
+    "n_filters": 16,
+    "hidden": 64,
+    "dropout": 0.0,
+    "lr": 0.001,
+    "batch_size": 64,
+    "weight_decay": 0.0,
+    "augment": false
+  },
+  "epochs": 10,
+  "run_id": "0488c696a610407e97d466f9e0643b0c",
+  "val_acc": 0.877,
+  "test_acc": 0.871,
+  "train_acc": 0.9085
+}

@@ -1,0 +1,14 @@
+{
+  "best_params": {
+    "n_filters": 64,
+    "hidden": 64,
+    "dropout": 0.16076099008484163,
+    "lr": 0.002167540948173154,
+    "batch_size": 128,
+    "weight_decay": 1.5995663439335596e-06,
+    "augment": true
+  },
+  "best_val_acc": 0.8795,
+  "n_trials": 20,
+  "epochs": 8
+}
